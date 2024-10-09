@@ -21,13 +21,13 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ziquan Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Lecturer in Computer Science"
+  location         : "London, United Kingdon"
+  employer         : "Queen Mary University of London"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ziquanliu.cs@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=x28OqBkAAAAJ"
