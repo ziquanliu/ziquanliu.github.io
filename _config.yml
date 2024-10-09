@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Dr. Ziquan Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ziquan Liu"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  name             : "Ziquan Liu"
+  pronouns         : # example: "he/him"  
+  bio              : "Lecturer in Computer Science"
+  location         : "London, UK"
   employer         : "Queen Mary University of London"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ziquanliu@gmail.com" 
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=x28OqBkAAAAJ&hl=en&oi=ao"
@@ -42,7 +42,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
